@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Herbi 
+GenericName=Platformer Game 
+Comment=A retro platformer which you have to collect all diamonds
+Exec=/usr/bin/launch-herbi.sh
+Icon=herbi
+StartupNotify=true
+Terminal=False
+Type=Application
+Categories=Game;
